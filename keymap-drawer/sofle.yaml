@@ -15,7 +15,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - adjust
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - KP EQUAL
@@ -76,7 +76,7 @@ layers:
   - ''
   - ''
   - ''
-  - EP TOG
+  - {type: held}
   - RGB HUD
   - RGB HUI
   - RGB SAD
@@ -88,7 +88,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - {type: held}
   - RGB BRD
   - RGB BRI
   - ''
