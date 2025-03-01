@@ -49,7 +49,7 @@
 &mo 2      &trans  &trans  &kp EQUAL  &trans  &kp PLUS                    &trans        &kp UNDERSCORE  &trans  &trans  &kp PIPE  &kp RIGHT_BRACKET
 &trans     &trans  &trans  &trans     &trans  &trans                      &kp KP_MINUS  &trans          &trans  &trans  &trans    &trans
 &trans     &trans  &trans  &trans     &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans  &trans    &trans
-                   &trans  &trans     &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans
+                   &trans  &trans     &trans  &trans    &trans    &trans  &kp HOME      &kp END         &trans  &trans
             >;
 
             label = "alt";
