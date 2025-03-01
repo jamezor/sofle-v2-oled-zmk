@@ -59,8 +59,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - HOME
+  - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
