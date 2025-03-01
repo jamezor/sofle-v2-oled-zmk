@@ -45,12 +45,14 @@
 
         alt {
             bindings = <
-&kp GRAVE  &trans  &trans  &trans        &trans  &trans                      &trans        &trans          &trans  &trans  &trans    &trans
-&mo 2      &trans  &trans  &kp KP_EQUAL  &trans  &kp PLUS                    &trans        &kp UNDERSCORE  &trans  &trans  &kp PIPE  &kp RIGHT_BRACKET
-&trans     &trans  &trans  &trans        &trans  &trans                      &kp KP_MINUS  &trans          &trans  &trans  &trans    &trans
-&trans     &trans  &trans  &trans        &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans  &trans    &trans
-                   &trans  &trans        &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans
+&kp GRAVE  &trans  &trans  &trans     &trans  &trans                      &trans        &trans          &trans  &trans  &trans    &trans
+&mo 2      &trans  &trans  &kp EQUAL  &trans  &kp PLUS                    &trans        &kp UNDERSCORE  &trans  &trans  &kp PIPE  &kp RIGHT_BRACKET
+&trans     &trans  &trans  &trans     &trans  &trans                      &kp KP_MINUS  &trans          &trans  &trans  &trans    &trans
+&trans     &trans  &trans  &trans     &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans  &trans    &trans
+                   &trans  &trans     &trans  &trans    &trans    &trans  &trans        &trans          &trans  &trans
             >;
+
+            label = "alt";
         };
 
         adjust_layer {
