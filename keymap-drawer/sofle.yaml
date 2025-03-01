@@ -18,7 +18,7 @@ layers:
   - adjust
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - KP EQUAL
+  - '='
   - {t: ▽, type: trans}
   - +
   - {t: ▽, type: trans}
